@@ -1,0 +1,4 @@
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
+No me permite subir este archivo a GitHub por su peso..
+Necesario descargar para comprobar contraseñas con el programa
